@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zab_article_helpful_response_options">
+        <item>@string/zui_button_label_no</item>
+        <item>@string/zui_button_label_yes</item>
+    </string-array>
+    <string-array name="zab_cells_greeting_text">
+        <item>@string/zab_cell_text_welcome</item>
+        <item>@string/zab_cell_text_prompt</item>
+    </string-array>
+    <array name="zui_avatar_view__background_color_palette">
+        <item>#ffb35827</item>
+        <item>#ff03363d</item>
+        <item>#ff144a75</item>
+        <item>#ff03363d</item>
+        <item>#ff68737d</item>
+    </array>
+</resources>
